@@ -50,8 +50,5 @@ int main() {
 
 
 	}
-
-	int _;
-	cin >> _;
 	return 0;
 }
